@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.idea/
+.venv/
+data/dataset/
+data/priors/
+results/
+artifacts/
+*.pth
+*.pkl
